@@ -2,7 +2,7 @@
 
 ![architecture_pipeline](https://github.com/john-ml-dev/Flightradar24/assets/78201996/3dbaca14-6421-4822-b8c8-f9287ffac707)
 
-**~ By John Tamakloe**
+~ **By _John Tamakloe_**
 ### Data Gathering
 
 - **Source**: Data is gathered from [flightradar24.com](https://www.flightradar24.com) using Scrapy.
